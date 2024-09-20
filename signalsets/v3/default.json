@@ -2,5 +2,5 @@
 { "hdr": "743", "cmd": {"22": "0207"}, "freq": 2,
   "signals": [
     {"id": "KADJAR_ODO", "path": "Trips.Generic", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
-  ]},
+  ]}
 ]}
