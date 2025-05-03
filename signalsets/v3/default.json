@@ -3,4 +3,5 @@
   "signals": [
     {"id": "KADJAR_ODO", "path": "Trips", "fmt": { "len": 24, "max": 16777215, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
   ]}
-]}
+]
+}
